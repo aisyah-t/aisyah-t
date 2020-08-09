@@ -1,4 +1,6 @@
-### Hi there 👋
+### Kia ora, I'm Aisyah 👋
+
+I recently completed the intensive full-immersion web development training programme at [Enspiral Dev Academy](https://devacademy.co.nz/). I enjoy honing my problem solving skills through coding and constantly learning. I am excited to continue exploring the endless possibilities in tech.
 
 <!--
 **aisyah-t/aisyah-t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
