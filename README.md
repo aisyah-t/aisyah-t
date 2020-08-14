@@ -1,6 +1,6 @@
 ### Kia ora, I'm Aisyah 👋
 
-I recently completed the intensive full-immersion web development training programme at [Enspiral Dev Academy](https://devacademy.co.nz/). I enjoy honing my problem solving skills through coding - there is always something new to learn! I am excited to continue learning how to make apps user-friendly and accessible and exploring the possibilities in tech. I see tech as a useful tool that can be used to create solutions to real world problems and to add value to society and people's lives.
+I recently completed the intensive full-immersion web development training programme at [Enspiral Dev Academy](https://devacademy.co.nz/). I enjoy honing my problem solving skills through coding - there is always something new to learn! I am excited to continue learning how to make apps user-friendly and accessible and exploring the possibilities in tech. I see tech as a useful tool that can provide solutions to real world problems and add value to society and people's lives.
 
 <!--
 **aisyah-t/aisyah-t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
