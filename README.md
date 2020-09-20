@@ -2,6 +2,11 @@
 
 I recently completed the intensive full-immersion web development training programme at [Enspiral Dev Academy](https://devacademy.co.nz/). I enjoy honing my problem solving skills through coding - there are various ways to solve coding problems and there is always something new to learn. My current strength is in front end web development and I am particularly interested in creating functional apps that are user-friendly, intuitive and accessible.
 
+#### 🌱 I’m currently learning ...
+- React Hooks and Context
+- C# & .NET
+- TypeScript
+
 <!--
 **aisyah-t/aisyah-t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
