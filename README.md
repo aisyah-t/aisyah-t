@@ -1,6 +1,6 @@
 ### Kia ora, I'm Aisyah 👋
 
-I recently completed the intensive full-immersion web development training programme at [Enspiral Dev Academy](https://devacademy.co.nz/). I enjoy honing my coding problem solving skills and creating using code. My current strength is in front end web development and I am interested in making apps user-friendly, intuitive and accessible.
+I recently completed the intensive full-immersion web development training programme at [Enspiral Dev Academy](https://devacademy.co.nz/). I enjoy honing my coding problem solving skills and creating using code. My current strength is in front end web development and I am interested in making tech tools that user-friendly, intuitive and accessible.
 
 #### 🌱 Up next on my list of things to learn...
 - React Hooks and Context
