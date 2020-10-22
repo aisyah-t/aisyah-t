@@ -1,11 +1,14 @@
 ### Kia ora, I'm Aisyah 👋
 
-I recently completed the intensive full-immersion web development training programme at [Enspiral Dev Academy](https://devacademy.co.nz/). I enjoy honing my coding problem solving skills and creating using code. My current strength is in front end web development and I am interested in making tech tools that user-friendly, intuitive and accessible.
+I recently completed the intensive full-immersion web development training programme at [Enspiral Dev Academy](https://devacademy.co.nz/). I enjoy honing my coding problem solving skills and creating using code. My current strength is in the front end and I am interested in making tech tools that are user-friendly, intuitive and accessible.
+
+I am currently doing a front end engineer internship at [Upstock] (https://upstock.app) and so the majority of my recent commits will be for Upstock.
 
 #### 🌱 Up next on my list of things to learn...
 - React Hooks and Context
-- C# & .NET
 - TypeScript
+- Gatsby and Next.js
+- C# & .NET
 
 <!--
 **aisyah-t/aisyah-t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
