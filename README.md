@@ -14,8 +14,8 @@ I recently completed a front end engineer internship at [Upstock](https://upstoc
 
 - 😄 Pronouns: she/her
 - 👯 I’m looking to collaborate on projects in the tech-for-good space.
-- ⚡ Fun fact: I'm a bit of a Thai boxing (Muay Thai) geek. Also my overseas travel tends to revolve around food.
-- 💬 Ask me about having to rush home from my OE in March 2020 due to Covid. And also about Muay Thai.
+- ⚡ Fun facts: I'm a bit of a Thai boxing (Muay Thai) geek and my overseas travel tends to revolve around food.
+- 💬 Ask me about having to rush home from my OE in March 2020 due to Covid...and about Muay Thai.
 
 <!--
 **aisyah-t/aisyah-t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
