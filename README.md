@@ -1,11 +1,11 @@
 ### Kia ora, I'm Aisyah 👋
 
-I completed the intensive full-immersion web development training programme at [Enspiral Dev Academy](https://devacademy.co.nz/) in July 2020. I enjoy honing my coding problem solving skills and creating using code. My current strength is in the front end and I am interested in making tech tools that are user-friendly, intuitive and accessible.
+In July 2020 I graduated from the intensive full-immersion web development training programme at [Enspiral Dev Academy](https://devacademy.co.nz/). I enjoy honing my coding problem solving skills and creating using code. My current strength is in the front end and I am interested in making tech tools that are user-friendly, intuitive and accessible.
 
 I recently completed a front end engineer internship at [Upstock](https://upstock.app) and so the majority of my commits from October 2020 - January 2021 were for Upstock's private repository.
 
 #### 🌱 Up next on my list of things to learn...
-- React Hooks and Context
+- React Context API
 - Gatsby and Next.js
 - Ruby on Rails
 - TypeScript
