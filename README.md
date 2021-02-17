@@ -1,12 +1,13 @@
 ### Kia ora, I'm Aisyah 👋
 
-I'm a budding web developer and I enjoy honing my coding problem solving skills and creating using code. My current strength is in the front end and I am interested in making tech tools that are user-friendly, intuitive and accessible.
+I'm a budding web developer and I enjoy honing my coding problem solving skills and creating using code. My current strength is in the front end and I am interested in building tech tools that are user-friendly, intuitive and accessible.
 
 I recently completed a front end engineer internship at [Upstock](https://upstock.app) and so the majority of my commits from October 2020 - January 2021 were for Upstock's private repository.
 
 #### 🌱 Up next on my list of things to learn...
 - React Context API
 - Gatsby and Next.js
+- GraphQL
 - Ruby on Rails
 - TypeScript
 
