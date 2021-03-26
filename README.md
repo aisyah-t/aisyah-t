@@ -1,8 +1,10 @@
 ### Kia ora, I'm Aisyah 👋
 
-I'm a budding web developer and I enjoy honing my coding problem solving skills and creating using code. My current strength is in the front end and I am interested in building tech tools that are user-friendly, intuitive and accessible.
+I'm a budding web developer and lifelong learner who enjoys solving problems and creating using code. My current strength is in the front end and I believe in using technology for good to tackle social and environmental challenges.
 
 I recently completed a front end engineer internship at [Upstock](https://upstock.app) and so the majority of my commits from October 2020 - January 2021 were for Upstock's private repository.
+
+#### 🐱‍💻 I am currently learning Python.
 
 #### 🌱 Up next on my list of things to learn...
 - React Context API
@@ -16,7 +18,6 @@ I recently completed a front end engineer internship at [Upstock](https://upstoc
 - 😄 Pronouns: she/her
 - 👯 I’m looking to collaborate on projects in the tech-for-good space.
 - ⚡ Fun facts: I'm a bit of a Thai boxing (Muay Thai) geek and my overseas travel tends to revolve around food.
-- 💬 Ask me about having to rush home from my OE in March 2020 due to Covid...and about Muay Thai.
 
 <!--
 **aisyah-t/aisyah-t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
