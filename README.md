@@ -6,7 +6,7 @@ I recently completed a front end engineer internship at [Upstock](https://upstoc
 
 #### 🐱‍💻 I am currently learning:
 - Python
-- Test automation using [Playwright](https://playwright.dev/)
+- Test automation using [Playwright for Python](https://playwright.dev/)
 
 #### 🌱 Up next on my list of things to learn...
 - React Context API
