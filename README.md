@@ -1,10 +1,12 @@
 ### Kia ora, I'm Aisyah 👋
 
-I'm a budding web developer and lifelong learner who enjoys solving problems and creating using code. My current strength is in the front end and I believe in using technology for good to tackle social and environmental challenges.
+I'm a budding web developer and lifelong learner who enjoys solving problems and creating using code. My current strength is in the front end and I believe in using technology for good.
 
 I recently completed a front end engineer internship at [Upstock](https://upstock.app) and so the majority of my commits from October 2020 - January 2021 were for Upstock's private repository.
 
-#### 🐱‍💻 I am currently learning Python.
+#### 🐱‍💻 I am currently learning:
+- Python
+- Test automation using [Playwright](https://playwright.dev/)
 
 #### 🌱 Up next on my list of things to learn...
 - React Context API
