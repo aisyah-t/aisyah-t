@@ -2,7 +2,9 @@
 
 I'm a budding web developer and lifelong learner who enjoys solving problems and creating using code. My current strength is in the front end and I believe in using technology for good.
 
-I recently completed a front end engineer internship at [Upstock](https://upstock.app) and so the majority of my commits from October 2020 - January 2021 were for Upstock's private repository.
+From October 2020 - January I did a front end engineer internship at [Upstock](https://upstock.app) and so the majority of my commits from then were for Upstock's private repository.
+
+I'm currently working at the [Ministry of Social Development (MSD)](https://www.msd.govt.nz/) as part of the 2021 intake of MSD's IT Graduate Programme, with initial placement in the test automation team.
 
 #### 🐱‍💻 I'm currently learning:
 - Python
