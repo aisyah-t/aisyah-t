@@ -4,18 +4,19 @@ I'm a budding web developer and lifelong learner who enjoys solving problems and
 
 I recently completed a front end engineer internship at [Upstock](https://upstock.app) and so the majority of my commits from October 2020 - January 2021 were for Upstock's private repository.
 
-#### 🐱‍💻 I am currently learning:
+#### 🐱‍💻 I'm currently learning:
 - Python
-- Test automation using [Playwright for Python](https://playwright.dev/python/)
+- Testing using [pytest](https://docs.pytest.org/en/stable/)
+- [Playwright for Python](https://playwright.dev/python/)
 
-#### 🌱 Up next on my list of things to learn...
+#### 🌱 Up next on my list of things to learn:
 - React Context API
 - Gatsby and Next.js
 - GraphQL
 - Ruby on Rails
 - TypeScript
 
-#### 🌍 Some things about me
+#### 🌍 Some things about me:
 
 - 😄 Pronouns: she/her
 - 👯 I’m looking to collaborate on projects in the tech-for-good space.
