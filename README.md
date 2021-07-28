@@ -2,8 +2,6 @@
 
 I'm a budding web developer and lifelong learner who enjoys solving problems and creating using code. My current strength is in the front end and I believe in using technology for good.
 
-From October 2020 - January I did a front end engineer internship at [Upstock](https://upstock.app) and so the majority of my commits from then were for Upstock's private repository. I recently finished working at the [Ministry of Social Development (MSD)](https://www.msd.govt.nz/) where I used Bitbucket hence there's no history of my work there on Github.
-
 
 #### 🐱‍💻 I'm currently learning:
 - TypeScript (with React)
