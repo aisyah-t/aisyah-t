@@ -5,11 +5,10 @@ I'm a budding web developer and lifelong learner who enjoys solving problems and
 
 #### 🐱‍💻 I'm currently learning:
 - TypeScript (with React)
+- GraphQL
 
 #### 🌱 Up next on my list of things to learn:
 - React Context API
-- Gatsby and Next.js
-- GraphQL
 
 #### 🌍 Some things about me:
 
