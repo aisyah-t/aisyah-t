@@ -1,20 +1,12 @@
 ### Kia ora, I'm Aisyah 👋
 
-I'm a budding web developer and lifelong learner who enjoys solving problems and creating using code. My current strength is in the front end and I believe in using technology for good.
-
-
-#### 🐱‍💻 I'm currently learning:
-- TypeScript (with React)
-- GraphQL
-
-#### 🌱 Up next on my list of things to learn:
-- React Context API
+I'm a software engineer and lifelong learner who enjoys solving problems and creating using code. My current strength is in the front end and I believe in using technology for good.
 
 #### 🌍 Some things about me:
 
 - 😄 Pronouns: she/her
 - 👯 I’m looking to collaborate on projects in the tech-for-good space.
-- ⚡ Fun facts: I'm a bit of a Thai boxing (Muay Thai) geek and my overseas travel tends to revolve around food.
+- ⚡ Fun facts: I'm a Thai boxing (Muay Thai) geek and my overseas travel tends to revolve around food.
 
 <!--
 **aisyah-t/aisyah-t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
