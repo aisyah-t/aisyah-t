@@ -1,6 +1,6 @@
 ### Kia ora, I'm Aisyah 👋
 
-I'm a software engineer and lifelong learner who enjoys solving problems and creating using code. My current strength is in the front end and I believe in using technology for good.
+I'm a software engineer and lifelong learner who enjoys solving problems and creating using code. My commercial experience so far has been focused on the front end. I'm looking to return to my full stack roots. Currently based in Melbourne, Australia and looking for my next challenge.
 
 #### 🌍 Some things about me:
 
