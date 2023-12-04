@@ -2,7 +2,7 @@
 
 I'm a software engineer and lifelong learner who enjoys solving problems and creating using code. My commercial experience so far has been focused on the front end and I'm looking to return to my full stack roots in the near future.
 
-Currently looking for my next challenge that would allow me to be based in Melbourne, Australia. Check out my CV [here.](https://docs.google.com/document/d/e/2PACX-1vSpCsYnWoVOA_fKiC0ClC096Z6-o1p6wp_kUnwIyiFy5CW-HSQ69yvbiLn1ChMmD0_i6EXiHdnlUlty/pub)
+Currently looking for my next challenge that would allow me to be based in Melbourne, Australia.
 
 I'm always up for a conversation so reach out if you'd like to chat or grab coffee ☕.
 
